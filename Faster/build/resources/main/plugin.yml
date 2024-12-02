@@ -1,0 +1,6 @@
+name: Faster
+version: '1.0'
+main: net.civicraft.faster.Faster
+api-version: '1.21'
+commands:
+  speed:
