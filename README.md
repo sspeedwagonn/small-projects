@@ -27,6 +27,11 @@ A collection of small projects showcasing different skills and ideas. These proj
 - **Created**: 12/28/2024
 - **Last Updated**: 12/28/2024
 
+#### Speed Steganography
+- **Description**: A steganography tool that hides and reveals hidden text in images.
+- **Created**: 12/29/2024
+- **Last Updated**: 12/29/2024
+
 ---
 
 ### Games  
