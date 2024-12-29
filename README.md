@@ -9,7 +9,7 @@ A collection of small projects showcasing different skills and ideas. These proj
 #### Faster  
 - **Description**: Allows players to manage their fly and walk speeds.  
 - **Created**: 12/2/2024  
-- **Last Updated**: 12/2/2024  
+- **Last Updated**: 12/28/2024  
 
 ---
 
