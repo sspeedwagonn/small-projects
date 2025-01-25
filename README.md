@@ -4,6 +4,14 @@ A collection of small projects showcasing different skills and ideas. These proj
 
 ## Projects  
 
+### CCDA Related
+These are programs purposed for [CiviCraft Developer Academy](https://ccda.civicraft.net/) project walk-throughs. CCDA is a free, open-source initiative by [CiviCraft Development](https://development.civicraft.net/) to teach Minecraft plugin development.
+
+#### Library Management System
+- **Description**: Scalable library inventory management system to illustrate OOP concepts
+- **Created**: 01/24/2025
+- **Last Updated**: 01/24/2025
+
 ### Minecraft Plugins  
 
 #### Faster  
