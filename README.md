@@ -62,3 +62,10 @@ These are programs purposed for [CiviCraft Developer Academy](https://ccda.civic
 - **Description**: A single-level platformer game developed using the Godot Engine. Demonstrates basic game mechanics such as movement, jumping, and collision detection.  
 - **Created**: 12/7/2024  
 - **Last Updated**: 12/7/2024  
+
+---
+### Other
+#### DiceRoll
+- **Description**: A program coded in MiniScript to roll a dice.
+- **Created**: 02/15/2025
+- **Last Updated**: 02/15/2025
